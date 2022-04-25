@@ -1,11 +1,11 @@
-﻿using Customer.Data;
+﻿using $ext_safeprojectname$.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Customer.Service
+namespace $ext_safeprojectname$.Service
 {
     public class CustomerService:ICustomerService
     {

@@ -1,8 +1,8 @@
-﻿using Customer.Service;
+﻿using $ext_safeprojectname$.Service;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
-namespace Customer.Api.Controllers
+namespace $ext_safeprojectname$.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
